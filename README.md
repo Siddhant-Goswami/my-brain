@@ -9,7 +9,7 @@ It is the same shape as the [100x brain](https://github.com/Siddhant-Goswami/100
 1. **Copy it.** Click "Use this template" on GitHub, or download the zip. Open the folder in the tool you already use: Antigravity, Claude Code, Codex or Cursor.
 2. **Write `me.md`.** By hand, in your own words. Your North Star goes in it.
 3. **Give it one source.** Put one document you own into `raw/` (your notes, an article, a transcript, as a text or markdown file). Then say: `Take in the new file in raw/.` Read what it wrote in `wiki/`, and click one of its source links.
-4. **Tell it one fact.** Say: `Remember this: ...` Check where it saved it. Close the chat, open a new one, and ask for the fact.
+4. **Tell it one fact.** Say: `Save this in wiki/told.md: ...` Open the file and check the line is there. Close the chat, open a new one, and ask for the fact.
 5. **Write three questions** in `eval/questions.md`: three questions whose answers you know. One of them is something it should say "not known" to. Score them.
 
 No tool that opens a folder? Do steps 2, 4 and 5 with one file: paste `me.md` at the top of a new chat. That is `memory.txt` from Lecture 6, and it still counts.

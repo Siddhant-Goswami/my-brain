@@ -13,8 +13,8 @@ Any tool that opens this folder follows these rules.
 ## How to do the common jobs
 
 - **"Take in the new file in raw/."** Read it. Write one short page in `wiki/` (one fact per line, each ending with its source file). Add one line for the page to `index.md`. Add one dated line to `log.md`. Then tell me what you wrote and where.
-- **"Remember this: ..."** Add it to `wiki/told.md` as one line with today's date, ending with `(told by me)`. Add a dated line to `log.md`.
-- **A question.** Answer from my files and name the file. If my files do not hold the answer, say "not known". Do not guess.
+- **"Save this in wiki/told.md: ..."** Add it to `wiki/told.md` in this folder, as one line with today's date, ending with `(told by me)`. Add a dated line to `log.md`. Do the same when I say "remember this". Do not put it in your own built-in memory instead: I must be able to open the file here and read it.
+- **A question.** Answer from the files in this folder and name the file. If my files do not hold the answer, say "not known". Do not guess.
 - **Something looks wrong or out of date.** Tell me. Change it only after I say yes, following rule 5.
 
 ## The course
