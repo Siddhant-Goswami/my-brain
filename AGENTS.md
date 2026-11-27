@@ -14,6 +14,7 @@ Any tool that opens this folder follows these rules.
 
 - **"Take in the new file in raw/."** Read it. Write one short page in `wiki/` (one fact per line, each ending with its source file). Add one line for the page to `index.md`. Add one dated line to `log.md`. Then tell me what you wrote and where.
 - **"Save this in wiki/told.md: ..."** Add it to `wiki/told.md` in this folder, as one line with today's date, ending with `(told by me)`. Add a dated line to `log.md`. Do the same when I say "remember this". Do not put it in your own built-in memory instead: I must be able to open the file here and read it.
+- **"Is this worth my time?"** Read `me.md` and `now.md` first. Answer yes or no for my North Star, in one line. Then give one reason: quote my North Star, and quote one line from the source. If `me.md` has no North Star, say so and stop. Do not praise the source.
 - **A question.** Answer from the files in this folder and name the file. If my files do not hold the answer, say "not known". Do not guess.
 - **Something looks wrong or out of date.** Tell me. Change it only after I say yes, following rule 5.
 

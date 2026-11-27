@@ -30,8 +30,8 @@ No tool that opens a folder? Do steps 2, 4 and 5 with one file: paste `me.md` at
 
 ## The week
 
-- Use it for **one job only**: one kind of source, one kind of question.
-- Add **one line a day** to `log.md`. What you asked, and whether the answer was right.
+- Use it for **one job only**. `now.md` starts with one: keep me up to date for my North Star.
+- **Each day:** put one thing you saved into `raw/`, say `Take in the new file in raw/.`, then ask `Is this worth my time?` Add one line to `log.md`: what it said, and whether you agree.
 - Once in the week, **find one line that is wrong** or out of date. Replace it and keep the old line, marked.
 - A week after you start, open a new chat and **ask for the fact** from step 4.
 
