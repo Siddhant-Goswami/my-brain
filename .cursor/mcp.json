@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "100x-brain": { "url": "https://100x-curriculum.vercel.app/api/brain" }
+  }
+}
